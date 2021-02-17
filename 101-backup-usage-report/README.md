@@ -17,7 +17,7 @@ This template deploys a Logic App that sends periodic reports on your Azure Back
 
 You can use this template to view trends on protected instance count and backup cloud storage consumed by each of your billing entities, as well as a detailed list of all your billing entities with information such as protected instance count, storage replication type and backup cloud storage associated with each billing entity.
 
-Following is the information that is exported by this Logic App:
+Following are the information that is exported by this Logic App:
 
 1. Inline 
 a. Trend of Protected Instance count over time 
